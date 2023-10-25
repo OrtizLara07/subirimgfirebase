@@ -26,7 +26,8 @@ File? imagen_to_upload;
 Widget build(BuildContext context) {
 return Scaffold(
      appBar: AppBar(
-       title: const Text("Material App Bar"),
+
+       title: const Text("Subir imagenes a Firebase"),
      ),
 
        body: ListView(
